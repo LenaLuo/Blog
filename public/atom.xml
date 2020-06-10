@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">OLOY</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-06-09T15:51:30&#43;08:00</updated>
+    <updated>2020-06-10T20:51:56&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">About</title>
             <link rel="alternate" type="text/html" href="https://example.com/about/about/" />
             <id>https://example.com/about/about/</id>
-            <updated>2020-06-04T17:19:13&#43;08:00</updated>
+            <updated>2020-06-10T18:55:08&#43;08:00</updated>
             <published>2014-04-09T00:00:00&#43;00:00</published>
             <author>
                     <name>oloy</name>
